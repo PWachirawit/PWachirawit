@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Tenshi.png" alt="Banner" width="1080"/>
+  <img src="./Tenshi.jpg" alt="Banner" width="1080"/>
 </p>  
 
 ## Ayo Bro 👋 if you reading this,your are reading this
