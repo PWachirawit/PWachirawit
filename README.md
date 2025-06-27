@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./i-have-a-bunch-of-touhou-wallpapers-with-some-well-known-v0-wwc7lu1ktq3d1.png" alt="Banner" width="1000"/>
+  <img src="./Tenshi.png" alt="Banner" width="1080"/>
 </p>  
 
 ## Ayo Bro 👋 if you reading this,your are reading this
