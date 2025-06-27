@@ -8,6 +8,8 @@ My favorite game is Terraria 🌳
 
 i'm a Weakest Touhou Player☯️😈
 
+if you reading this,your are reading this
+
 <!--
 **PWachirawit/PWachirawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
