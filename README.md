@@ -9,7 +9,7 @@ My favorite game is Terraria 🌳
 i'm a Weakest Touhou Player☯️😈
 
 <p align="center">
-  <img src="./i-have-a-bunch-of-touhou-wallpapers-with-some-well-known-v0-wwc7lu1ktq3d1.png" alt="Banner" width="600"/>
+  <img src="./i-have-a-bunch-of-touhou-wallpapers-with-some-well-known-v0-wwc7lu1ktq3d1.png" alt="Banner" width="1000"/>
 </p>  
 
 <!--
