@@ -1,5 +1,12 @@
-## Hi there 👋
-Guhumyai
+## Ayo Bro 👋
+
+My name is Wachirawit Pinakro but you can call me Peet or Peach i am 18y
+
+Now i learning Programing i want to pro this
+
+My favorite game is Terraria 🌳
+
+i'm a Weakest Touhou Player☯️😈
 
 <!--
 **PWachirawit/PWachirawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
